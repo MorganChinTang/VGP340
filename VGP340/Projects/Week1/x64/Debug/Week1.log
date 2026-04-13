@@ -1,0 +1,7 @@
+﻿  VGP340_1.cpp
+C:\Users\user\Documents\GitHub\VGP340\VGP340\Projects\Week1\VGP340_1.cpp(31,18): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\VGP340\VGP340\Projects\Week1\VGP340_1.cpp(31,18): warning C4244:         with
+C:\Users\user\Documents\GitHub\VGP340\VGP340\Projects\Week1\VGP340_1.cpp(31,18): warning C4244:         [
+C:\Users\user\Documents\GitHub\VGP340\VGP340\Projects\Week1\VGP340_1.cpp(31,18): warning C4244:             _Rep=__int64
+C:\Users\user\Documents\GitHub\VGP340\VGP340\Projects\Week1\VGP340_1.cpp(31,18): warning C4244:         ]
+  Week1.vcxproj -> C:\Users\user\Documents\GitHub\VGP340\VGP340\x64\Debug\Week1.exe
