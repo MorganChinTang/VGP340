@@ -1,6 +1,9 @@
 ## VGP340 Assignments
 
 All my VGP340 Assignments are in this repository. 
+Projects that are named 'week1', 'week2'... are used for in class practice
+
+Assignments are done in separate projects just in case I mess up and for cleanliness. :)
 
 
 ## How to open my assignments
