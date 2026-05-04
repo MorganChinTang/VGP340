@@ -3,36 +3,12 @@
 #include <omp.h>
 #include <iostream>
 #include <chrono>
+#include <algorithm>
 
 #define NUM_THREADS 4
 static long numSteps = 1000000;
 double step = 0.0;
 
-int main()
-{
-    std::cout << "Enter Num Steps: ";
-    std::cin >> numSteps;
-
-    double x = 0.0;
-    double pi = 0.0;
-    double sum = 0.0;
-    step = 1.0 / (double)numSteps;
-    // the current cpu time in utc
-    std::chrono::steady_clock::time_point startTime = std::chrono::steady_clock::now();
-    for (int i = 0; i < numSteps; ++i)
-    {
-        x = (i + 0.5) * step;
-        sum += (4.0 / (1.0 + x * x));
-    }
-
-    pi = sum * step;
-    std::cout << "PI: " << pi << "\n";
-    std::chrono::steady_clock::time_point endTime = std::chrono::steady_clock::now();
-    int duration = std::chrono::duration_cast<std::chrono::microseconds>(endTime - startTime).count();
-    std::cout << "Duration: " << duration << "\n";
-
-    return 0;
-}
 
 void Exercise1()
 {
@@ -129,4 +105,30 @@ void Exercise4()
 
     pi = sum * step;
     std::cout << "PI: " << pi << "\n";
+}
+
+int main()
+{
+    std::cout << "Enter Num Steps: ";
+    std::cin >> numSteps;
+
+    double x = 0.0;
+    double pi = 0.0;
+    double sum = 0.0;
+    step = 1.0 / (double)numSteps;
+    // the current cpu time in utc
+    std::chrono::steady_clock::time_point startTime = std::chrono::steady_clock::now();
+    for (int i = 0; i < numSteps; ++i)
+    {
+        x = (i + 0.5) * step;
+        sum += (4.0 / (1.0 + x * x));
+    }
+
+    pi = sum * step;
+    std::cout << "PI: " << pi << "\n";
+    std::chrono::steady_clock::time_point endTime = std::chrono::steady_clock::now();
+    int duration = std::chrono::duration_cast<std::chrono::microseconds>(endTime - startTime).count();
+    std::cout << "Duration: " << duration << "\n";
+
+    return 0;
 }
