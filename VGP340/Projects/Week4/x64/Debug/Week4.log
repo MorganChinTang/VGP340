@@ -1,0 +1,5 @@
+﻿  Week4.cpp
+C:\Users\user\Documents\GitHub\VGP340\VGP340\Projects\Week4\Week4.cpp(33,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\VGP340\VGP340\Projects\Week4\Week4.cpp(34,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\GitHub\VGP340\VGP340\Projects\Week4\Week4.cpp(189,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Week4.vcxproj -> C:\Users\user\Documents\GitHub\VGP340\VGP340\x64\Debug\Week4.exe

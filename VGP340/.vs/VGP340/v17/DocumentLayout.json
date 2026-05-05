@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4DAD888-0E60-4EB0-B58A-D8FA429BC8DB}|Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.vcxproj|C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4DAD888-0E60-4EB0-B58A-D8FA429BC8DB}|Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.vcxproj|solutionrelative:Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE707A4-0D31-4350-8C48-E96B06753235}|Projects\\Week4\\Week4.vcxproj|C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\Week4\\Week4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EE707A4-0D31-4350-8C48-E96B06753235}|Projects\\Week4\\Week4.vcxproj|solutionrelative:Projects\\Week4\\Week4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2932472B-6938-452F-A5EB-E08EFF3A7961}|Projects\\A3_ DiningandPhilosophersDilemma\\A3_ DiningandPhilosophersDilemma.vcxproj|C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A3_ DiningandPhilosophersDilemma\\A3_ DiningandPhilosophersDilemma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2932472B-6938-452F-A5EB-E08EFF3A7961}|Projects\\A3_ DiningandPhilosophersDilemma\\A3_ DiningandPhilosophersDilemma.vcxproj|solutionrelative:Projects\\A3_ DiningandPhilosophersDilemma\\A3_ DiningandPhilosophersDilemma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +58,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A4_ConditionalVariable.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.cpp",
+              "RelativeDocumentMoniker": "Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.cpp",
+              "RelativeToolTip": "Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.cpp",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAuwOEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T23:51:47.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Week4.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\Week4\\Week4.cpp",
+              "RelativeDocumentMoniker": "Projects\\Week4\\Week4.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\Week4\\Week4.cpp",
+              "RelativeToolTip": "Projects\\Week4\\Week4.cpp",
+              "ViewState": "AgIAADYBAAAAAAAAAAAcwG8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T23:47:40.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LockFreeStack.h",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A3_ DiningandPhilosophersDilemma\\LockFreeStack.h",
               "RelativeDocumentMoniker": "Projects\\A3_ DiningandPhilosophersDilemma\\LockFreeStack.h",
@@ -58,12 +92,11 @@
               "RelativeToolTip": "Projects\\A3_ DiningandPhilosophersDilemma\\LockFreeStack.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-04T23:29:21.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T23:29:21.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Week3.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\Week3\\Week3.cpp",
               "RelativeDocumentMoniker": "Projects\\Week3\\Week3.cpp",
@@ -71,12 +104,11 @@
               "RelativeToolTip": "Projects\\Week3\\Week3.cpp",
               "ViewState": "AgIAAKoAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T23:25:03.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T23:25:03.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "A3_ DiningandPhilosophersDilemma.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A3_ DiningandPhilosophersDilemma\\A3_ DiningandPhilosophersDilemma.cpp",
               "RelativeDocumentMoniker": "Projects\\A3_ DiningandPhilosophersDilemma\\A3_ DiningandPhilosophersDilemma.cpp",
@@ -89,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "A2_AdvancedOpenMP.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A2_AdvancedOpenMP\\A2_AdvancedOpenMP.cpp",
               "RelativeDocumentMoniker": "Projects\\A2_AdvancedOpenMP\\A2_AdvancedOpenMP.cpp",
@@ -97,12 +129,11 @@
               "RelativeToolTip": "Projects\\A2_AdvancedOpenMP\\A2_AdvancedOpenMP.cpp",
               "ViewState": "AgIAAH8AAAAAAAAAAAAcwKEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T23:16:01.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T23:16:01.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Week2.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\Week2\\Week2.cpp",
               "RelativeDocumentMoniker": "Projects\\Week2\\Week2.cpp",
@@ -110,8 +141,7 @@
               "RelativeToolTip": "Projects\\Week2\\Week2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-14T02:44:29.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T02:44:29.405Z"
             }
           ]
         }
