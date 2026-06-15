@@ -3,6 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CF6C0B9-2EFE-45FB-A7E7-2AAC2DD98C53}|Projects\\A6_MergeSort\\A6_MergeSort.vcxproj|C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A6_MergeSort\\A6_MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CF6C0B9-2EFE-45FB-A7E7-2AAC2DD98C53}|Projects\\A6_MergeSort\\A6_MergeSort.vcxproj|solutionrelative:Projects\\A6_MergeSort\\A6_MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514D9D52-6042-4B74-AB41-12728B1671D6}|Projects\\A5_MonteCarloPi\\A5_MonteCarloPi.vcxproj|C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A5_MonteCarloPi\\A5_MonteCarloPi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{514D9D52-6042-4B74-AB41-12728B1671D6}|Projects\\A5_MonteCarloPi\\A5_MonteCarloPi.vcxproj|solutionrelative:Projects\\A5_MonteCarloPi\\A5_MonteCarloPi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LASALLE\\9_26Spring\\VGP340\\A5 VGP340 MonteCarloPI\\Omp_PI_for.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LASALLE\\9_26Spring\\VGP340\\A5 VGP340 MonteCarloPI\\SerialPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4DAD888-0E60-4EB0-B58A-D8FA429BC8DB}|Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.vcxproj|C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F4DAD888-0E60-4EB0-B58A-D8FA429BC8DB}|Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.vcxproj|solutionrelative:Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -59,19 +73,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "A6_MergeSort.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A6_MergeSort\\A6_MergeSort.cpp",
+              "RelativeDocumentMoniker": "Projects\\A6_MergeSort\\A6_MergeSort.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A6_MergeSort\\A6_MergeSort.cpp",
+              "RelativeToolTip": "Projects\\A6_MergeSort\\A6_MergeSort.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-15T04:26:19.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Omp_PI_for.cpp",
+              "DocumentMoniker": "D:\\LASALLE\\9_26Spring\\VGP340\\A5 VGP340 MonteCarloPI\\Omp_PI_for.cpp",
+              "ToolTip": "D:\\LASALLE\\9_26Spring\\VGP340\\A5 VGP340 MonteCarloPI\\Omp_PI_for.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-02T00:18:43.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SerialPI.cpp",
+              "DocumentMoniker": "D:\\LASALLE\\9_26Spring\\VGP340\\A5 VGP340 MonteCarloPI\\SerialPI.cpp",
+              "ToolTip": "D:\\LASALLE\\9_26Spring\\VGP340\\A5 VGP340 MonteCarloPI\\SerialPI.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-02T00:18:39.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A5_MonteCarloPi.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A5_MonteCarloPi\\A5_MonteCarloPi.cpp",
+              "RelativeDocumentMoniker": "Projects\\A5_MonteCarloPi\\A5_MonteCarloPi.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A5_MonteCarloPi\\A5_MonteCarloPi.cpp",
+              "RelativeToolTip": "Projects\\A5_MonteCarloPi\\A5_MonteCarloPi.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwEsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-02T00:18:28.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "A4_ConditionalVariable.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.cpp",
               "RelativeDocumentMoniker": "Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.cpp",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.cpp",
               "RelativeToolTip": "Projects\\A4_ConditionalVariable\\A4_ConditionalVariable.cpp",
-              "ViewState": "AgIAAMIAAAAAAAAAAAAuwOEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAAPoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T23:51:47.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T23:51:47.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Week4.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\Week4\\Week4.cpp",
               "RelativeDocumentMoniker": "Projects\\Week4\\Week4.cpp",
@@ -79,12 +138,11 @@
               "RelativeToolTip": "Projects\\Week4\\Week4.cpp",
               "ViewState": "AgIAADYBAAAAAAAAAAAcwG8BAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T23:47:40.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T23:47:40.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "LockFreeStack.h",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A3_ DiningandPhilosophersDilemma\\LockFreeStack.h",
               "RelativeDocumentMoniker": "Projects\\A3_ DiningandPhilosophersDilemma\\LockFreeStack.h",
@@ -96,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Week3.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\Week3\\Week3.cpp",
               "RelativeDocumentMoniker": "Projects\\Week3\\Week3.cpp",
@@ -108,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "A3_ DiningandPhilosophersDilemma.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A3_ DiningandPhilosophersDilemma\\A3_ DiningandPhilosophersDilemma.cpp",
               "RelativeDocumentMoniker": "Projects\\A3_ DiningandPhilosophersDilemma\\A3_ DiningandPhilosophersDilemma.cpp",
@@ -116,12 +174,11 @@
               "RelativeToolTip": "Projects\\A3_ DiningandPhilosophersDilemma\\A3_ DiningandPhilosophersDilemma.cpp",
               "ViewState": "AgIAADgAAAAAAAAAAAAwwEgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T23:23:16.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T23:23:16.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "A2_AdvancedOpenMP.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\A2_AdvancedOpenMP\\A2_AdvancedOpenMP.cpp",
               "RelativeDocumentMoniker": "Projects\\A2_AdvancedOpenMP\\A2_AdvancedOpenMP.cpp",
@@ -133,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Week2.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\VGP340\\VGP340\\Projects\\Week2\\Week2.cpp",
               "RelativeDocumentMoniker": "Projects\\Week2\\Week2.cpp",
